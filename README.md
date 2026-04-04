@@ -18,5 +18,5 @@ Catalina Toledo
 - Mi mayor dificultad fue utilizar la función *arc()*, ya que requiere entender el uso de radiantes (PI), para poder definir los ángulos iniciales y finales del medio círculo, lo solucioné investigando a fondo qué es lo que significaba cada variable y con videos de ayuda por internet. Este proceso no fue únicamente de copiar una imagen, sino de entender que el diseño puede ser un sistema de algoritmos. La obra se transformo en un conjunto de datos númericos dejando de ser una simple obra artística.
 
 
-  ![una imagen](https://es.amorosart.com/img/obras/herbin-composition-sur-le-mot-jaune-1946-130563-1000x1000.webp).
+  ![una imagen](https://es.amorosart.com/img/obras/herbin-composition-sur-le-mot-jaune-1946-130563-1000x1000.webp)
   
